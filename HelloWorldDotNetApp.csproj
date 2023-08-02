@@ -4,8 +4,6 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>aws_test</RootNamespace>
-    <OutputType>Exe</OutputType>
   </PropertyGroup>
 
 </Project>
