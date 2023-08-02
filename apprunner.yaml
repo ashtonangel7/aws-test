@@ -5,4 +5,5 @@ build:
     build:
       - dotnet publish -c Release -o out
 run:
-  command: dotnet out/HelloWorldDotNetApp.dll
+   runtime-version: 6.0.19
+   command: dotnet out/HelloWorldDotNetApp.dll
